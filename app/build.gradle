@@ -4,7 +4,7 @@ android {
     compileSdkVersion 23
     buildToolsVersion '23.0.2'
     defaultConfig {
-        applicationId "com.example.android.tvleanback"
+        applicationId 'de.kraenksoft.c3tv'
         minSdkVersion 23
         targetSdkVersion 23
         versionCode 1
