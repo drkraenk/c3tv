@@ -15,8 +15,8 @@
 -->
 
 <resources>
-    <string name="app_name"><![CDATA[Videos by Google]]></string>
-    <string name="browse_title"><![CDATA[Videos by Google]]></string>
+    <string name="app_name"><![CDATA[c3tv]]></string>
+    <string name="browse_title"><![CDATA[c3tv]]></string>
     <string name="related_movies">Related Videos</string>
     <string name="vertical_grid_title"><![CDATA[Vertical Video Grid]]></string>
 
